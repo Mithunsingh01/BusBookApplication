@@ -320,6 +320,6 @@ Render automatically injects these via environment variables.
 
 ✅ Part 7: Done
 
-App deploy hote hi URL milega like:
-https://bus-booking-app.onrender.com
+App deploy hote hi URL:
+https://busbookapplication.onrender.com/
 ----------------------------------------------------------------------------------------------------------------------------
